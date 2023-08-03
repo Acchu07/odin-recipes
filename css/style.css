@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+img{
+    height: 700px;
+    width: 700px;
+}
+
+img.imgsize{
+    height: 200px;
+    width: 200px;
+}
+
+ul.links {
+    color: orange;
+}
+
+/* ,
+.color .links */
